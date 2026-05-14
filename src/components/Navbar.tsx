@@ -49,8 +49,8 @@ export default function Navbar() {
 
         {/* CV Button */}
         <a
-          href="/public/SnehaPal_Resume.pdf"
-          download
+          href="/SnehaPal_Resume.pdf"
+          download="SnehaPal_Resume.pdf"
           className="hidden md:flex items-center gap-2 px-5 py-2 rounded-full border border-navy/30 text-navy font-outfit text-[11px] font-[500] tracking-[0.1em] hover:border-navy hover:bg-navy hover:text-cream transition-all duration-200"
         >
           CV
