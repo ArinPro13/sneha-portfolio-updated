@@ -37,8 +37,8 @@ export default function Home() {
               View Projects
             </Link>
             <a
-              href="/resume.pdf"
-              download
+              href="/SnehaPal_Resume.pdf"
+              download="SnehaPal_Resume.pdf"
               className="px-7 py-3.5 rounded-full border-[1.5px] border-navy text-navy text-sm font-[500] tracking-wide hover:bg-navy hover:text-cream transition-all duration-200"
             >
               Download CV

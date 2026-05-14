@@ -19,7 +19,7 @@ const projects: Project[] = [
     subcategory: 'Logistic Regression · Ad Targeting',
     desc: 'Developed a logistic regression model to predict ad-click behavior using user demographics and site activity. Performed EDA to analyze feature distributions, outliers, and multicollinearity, guiding feature selection. Validated model insights with qualitative survey data to improve AI-driven ad targeting and campaign optimization.',
     methods: ['Logistic Regression', 'EDA', 'Feature Selection', 'Multicollinearity Analysis', 'Survey Validation'],
-    github: '#',
+    github: 'https://github.com/snehapal4559-hub/CTR-Prediction-Model',
     highlight: true,
   },
   {
@@ -36,6 +36,7 @@ const projects: Project[] = [
     subcategory: 'Environmental Statistics · Time-Series',
     desc: 'EDA using time-series plots and t-tests on pumpkin growth parameters. Fitted linear models to assess growth trends, linking soil microbial activity with sustainable plant productivity and ecosystem conservation.',
     methods: ['Linear Regression', 'Time-Series EDA', 't-Tests', 'Environmental Statistics'],
+    github: 'https://github.com/snehapal4559-hub/Pumpkin-Growth-Analysis',
     highlight: false,
   },
 ]
